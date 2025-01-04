@@ -118,7 +118,7 @@ Me chamo Adrean Danilo, tenho 17 anos e estou ingressando no mundo do desenvolvi
 
 ### 📈 Estátisticas:
 
-<p>
+<p style="min-height: max-content; min-width: max-content;">
       <img
         align="left"
         alt="Github Stats"
