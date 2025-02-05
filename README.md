@@ -4,7 +4,6 @@
 
 Me chamo Adrean Danilo, tenho 17 anos e estou ingressando no mundo do desenvolvimento web fullstack através de aprendizagem autônoma em conteúdos da própria internet há 3 anos. Atualmente estou concluindo o ensino médio em uma escola estadual técnica de Programação de Jogos Digitais. Sou um entusiasta de tecnologia e tento sempre ficar por dentro das mudanças da área.
 
-<>
 <a href="https://github.com/Adrwaan?tab=followers">
 <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Adrwaan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/Adrwaan?tab=repositories&sort=stargazers">
