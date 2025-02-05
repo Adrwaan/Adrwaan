@@ -118,20 +118,14 @@ Me chamo Adrean Danilo, tenho 17 anos e estou ingressando no mundo do desenvolvi
 
 ### 📈 Estátisticas:
 
-<p style="min-height: max-content; min-width: max-content;">
-      <img
-        align="left"
-        alt="Github Stats"
-        height="200"
-        style="padding: 0 10px 10px 0"
-        src="https://github-readme-stats.vercel.app/api?username=Adrwaan&include_all_commits=true&show_icons=true&hide=prs&locale=pt-br&theme=dark"
-      />
-      <br>
-      <img
-        align="left"
-        alt="Github Stats"
-        height="200"
-        style="padding: 0 10px 10px 0"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrwaan&locale=pt-br&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
-      />
-</p>
+<img
+  alt="Github Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=Adrwaan&include_all_commits=true&show_icons=true&hide=prs&locale=pt-br&theme=dark"
+/>
+<img
+  alt="Github Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrwaan&locale=pt-br&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
+
