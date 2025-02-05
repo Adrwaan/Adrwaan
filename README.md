@@ -126,6 +126,7 @@ Me chamo Adrean Danilo, tenho 17 anos e estou ingressando no mundo do desenvolvi
         style="padding: 0 10px 10px 0"
         src="https://github-readme-stats.vercel.app/api?username=Adrwaan&include_all_commits=true&show_icons=true&hide=prs&locale=pt-br&theme=dark"
       />
+      <br>
       <img
         align="left"
         alt="Github Stats"
