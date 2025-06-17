@@ -2,18 +2,15 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Adrean Danilo, tenho 18 anos e estou ingressando no mundo do desenvolvimento web fullstack através de aprendizagem autônoma em conteúdos da própria internet há 3 anos. Atualmente estou concluindo o ensino médio em uma escola estadual técnica de Programação de Jogos Digitais. Sou um entusiasta de tecnologia e tento sempre ficar por dentro das mudanças da área.
+I'm Adrean Danilo, an 18-year-old self-taught fullstack web developer with 3 years of experience. I'm finishing high school in a technical program for Digital Game Programming and always stay up to date with tech trends.
 
 <a href="https://github.com/Adrwaan?tab=followers">
-<img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Adrwaan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/Adrwaan?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Adrwaan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-</p>
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adrwaan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
+</a>
 
 ---
 
-### 🤖 Principais Linguagens e Tecnologias
+### 🤖 Main Languages and Technologies
 
 <p style="min-width: max-content">
 <img
@@ -104,7 +101,7 @@ Me chamo Adrean Danilo, tenho 18 anos e estou ingressando no mundo do desenvolvi
 
 ---
 
-### 📈 Estátisticas:
+### 📈 Statistics:
 
 <img
   alt="Github Stats"
