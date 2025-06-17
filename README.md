@@ -106,10 +106,10 @@ I'm Adrean Danilo, an 18-year-old self-taught fullstack web developer with 3 yea
 <img
   alt="Github Stats"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Adrwaan&include_all_commits=true&show_icons=true&hide=prs&locale=pt-br&theme=dark"
+  src="https://github-readme-stats.vercel.app/api?username=Adrwaan&include_all_commits=true&show_icons=true&hide=prs&theme=dark"
 />
 <img
   alt="Github Stats"
   height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrwaan&locale=pt-br&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrwaan&theme=dark&layout=compact&langs_count=8"
 />
