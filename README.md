@@ -1,8 +1,8 @@
-# 🧑‍💻 Adrwaan
+# 🧑‍💻 Adrean D.
 
 **`Desenvolvedor Fullstack`**
 
-I'm Adrean Danilo, an 18-year-old self-taught fullstack web developer with 3 years of experience. I'm finishing high school in a technical program for Digital Game Programming and always stay up to date with tech trends.
+I'm Adrean Danilo, an 18-year-old self-taught fullstack web developer with 3 years of experience. I'm finishing high school in a technical program for Digital Game Programming and always stay up to date with tech trends. I am currently interning at a solar energy company as a fullstack web developer.
 
 <a href="https://github.com/Adrwaan?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adrwaan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
