@@ -1,115 +1,47 @@
-# 🧑‍💻 Adrean D.
+<h1 align="center">Hey 👋What's Up?</h1>
 
-**`Desenvolvedor Fullstack`**
+###
 
-I'm Adrean Danilo, an 18-year-old self-taught fullstack web developer with 3 years of experience. I'm finishing high school in a technical program for Digital Game Programming and always stay up to date with tech trends. I am currently interning at a solar energy company as a fullstack web developer.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" alt="eslint logo"  />
+</div>
 
-<a href="https://github.com/Adrwaan?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adrwaan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
-</a>
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-### 🤖 Main Languages and Technologies
-
-<p style="min-width: max-content">
-<img
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="margin-right: 10px;"
-  src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg
-/>
-<img
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="margin-right: 10px;"
-  src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg
-/>
-<img
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="margin-right: 10px;"
-  src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg
-/>
-<img
-  alt="Typescript"
-  title="Typescript"
-  width="30px"
-  style="margin-right: 10px;"
-  src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg
-/>
-<img
-  alt="React"
-  title="React"
-  width="30px"
-  style="margin-right: 10px;"
-  src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg
-/>
-<img
-  alt="NextJS"
-  title="NextJS"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img
-  alt="SASS"
-  title="SASS"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-/>
-<img
-  alt="TailwindCSS"
-  title="TailwindCSS"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img
-  alt="Git"
-  title="Git"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-  alt="NodeJS"
-  title="NodeJS"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img
-  alt="Fastify"
-  title="Fastify"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"
-/>
-<img
-  alt="MongoDB"
-  title="MongoDB"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-/>
-</p>
-
----
-
-### 📈 Statistics:
-
-<img
-  alt="Github Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Adrwaan&include_all_commits=true&show_icons=true&hide=prs&theme=dark"
-/>
-<img
-  alt="Github Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrwaan&theme=dark&layout=compact&langs_count=8"
-/>
+###
